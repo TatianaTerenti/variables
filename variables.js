@@ -76,3 +76,13 @@ console.log(countryData);
 
 
 
+
+// 16. Use Comments in your HomeWork
+
+// 17. Git instructions text content
+
+
+
+
+
+
